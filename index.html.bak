@@ -29,7 +29,7 @@
 
         <div class="text-box">
             <a href="file:///C:/Users/ACER/OneDrive/Desktop/B-school/Grade%2011/New%20folder/Shadow%20of%20Injustice.pdf"> <!-- Replace "https://example.com" with your desired URL -->
-                <img src="C:\Users\ACER\OneDrive\Desktop\B-school\Grade 11\New folder\Final 2.jpeg" alt="Final 2">
+                <img src="Final 2.jpeg" alt="Final 2">
             </a>
             <div>
                 <h2 style="text-align:center;">Shadow of Injustice</h2>

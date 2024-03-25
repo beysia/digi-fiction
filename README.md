@@ -32,13 +32,13 @@
                 <img src="Final 2.jpeg" alt="Final 2">
             </a>
             <div>
-                <h2 style="text-align:center;">Shadow of Injustice target="_blank"</h2>
+                <h2 style="text-align:center;">Shadow of Injustice target="_self"</h2>
                 <p style="text-align:center;">Mang Pedro is a fisherman living in Punta Engaño, Lapu-Lapu City. He is being accused of theft by a wealthy landowner. Will the verdict be in the favor of wealth or will it hear the plea of the town?</p>
             </div>
         </div>
 
         <div class="second-text-box">
-            <a href="Departure.pdf" target="_blank"> <!-- Replace "https://example.com" with your desired URL -->
+            <a href="Departure.pdf" target="_self"> <!-- Replace "https://example.com" with your desired URL -->
                 <img src="Final 1.jpg" alt="Finat 1">
             </a>
             <div>

@@ -28,7 +28,7 @@
         <h2 style="text-align:center;">Group 4: Performance Task</h2> <!-- Added text below the heading -->
 
         <div class="text-box">
-            <a href="Shadow of Injustice.pdf"> <!-- Replace "https://example.com" with your desired URL -->
+            <a href="Shadow of Injustice.pdf" target="_self"> <!-- Replace "https://example.com" with your desired URL -->
                 <img src="Final 2.jpeg" alt="Final 2">
             </a>
             <div>
@@ -38,7 +38,7 @@
         </div>
 
         <div class="second-text-box">
-            <a href="Departure.pdf"> <!-- Replace "https://example.com" with your desired URL -->
+            <a href="Departure.pdf" target="_self"> <!-- Replace "https://example.com" with your desired URL -->
                 <img src="Final 1.jpg" alt="Finat 1">
             </a>
             <div>
